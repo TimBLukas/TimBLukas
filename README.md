@@ -57,7 +57,7 @@ $ cat ./activity.log
 
 <div align="center">
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TimBLukas&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
 
 </div>
 
