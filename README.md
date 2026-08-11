@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Tim</h3>
+<h3 align="center">👋 Hi, I'm Tim</h3>
 
 <p align="center">
   <a href="">Website</a> •
@@ -21,7 +21,7 @@ I'm a student in business informatics and software engineering
 
 <br>
 
-![activity graph](https://github-readme-stats.vercel.app/api?username=TimBLukas&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+![activity graph](<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>)
 
 
 
