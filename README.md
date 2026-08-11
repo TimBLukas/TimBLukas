@@ -1,41 +1,32 @@
-<div align="center">
+<h3 align="center">👋 Hi there, I'm Tim Lukas</h3>
+
+<p align="center">
+  <a href="">Website</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://linkedin.com/in/">LinkedIn</a> •
+  <a href="https://github.com/TimBLukas">GitHub</a>
+</p>
+
+---
+
+I'm a student in business informatics and software engineering
+
+---
+
+- 🔭 Currently working as **Student** at **HHN**
+- 🌱 Learning: **C, Rust**
+- 📍 Based in: **Stuttgart, Germany**
+
+---
+
+### ✍️ I Write At
+
+### ☕ Support Me
 
 <br>
 
-# TBL
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TimBLukas&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
 
-B.Sc. Business Informatics · M.Sc. Software Engineering
 
-<br>
-
-python · rust · c · java
-
-<br><br>
-
-—
-
-<br><br>
-
-**datastructure-visualizer**
-3D rendering engine for trees, graphs, linked lists — C + OpenGL, physics-based node layout
-
-**pomodoro**
-desktop timer + todo, React + Tauri, monochrome design system
-
-**html_utils**
-personal python utility library — config, serialization, env handling
-
-**pipeline**
-internal data pipeline — KPI tracking, reporting, CI
-
-<br><br>
-
-—
-
-<br><br>
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff)
-
-<br>
 
 </div>
